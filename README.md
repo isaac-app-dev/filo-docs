@@ -1,6 +1,6 @@
 # Privacy Policy for Filo
 
-**Effective Date:** [Today's Date]
+**Effective Date:** April 27th, 2025
 
 Filo does not collect, store, share, or sell any personal information from users.
 
