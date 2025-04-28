@@ -25,7 +25,7 @@ For any questions, please contact: isaac.business@icloud.com
 If you need assistance with Filo, please contact us through the App Store feedback form,  
 or email us at:
 
-📧 [isaac.business@icloud.com]
+📧 isaac.business@icloud.com
 
 We are happy to assist with any questions or issues!
 
